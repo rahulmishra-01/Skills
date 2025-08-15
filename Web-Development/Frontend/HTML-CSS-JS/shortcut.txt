@@ -1,0 +1,3 @@
+shift + alt + rightArrow*2 = for selecting all element's text content
+shift + alt + downArrow = for pasting same code in next line
+ctrl + enter = move cursor to the next line
