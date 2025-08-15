@@ -16,13 +16,13 @@ This repository is where I log my **daily progress**, projects, and notes.
 
 ## 🏆 Daily Progress Log  
 
-| Day | Date       | Web Development 💻 | Ethical Hacking 🔐 |
+| Day | Date       | Web Development 💻 | Ethical Hacking 🔐 | 
 |-----|-----------|--------------------|-------------------|
 | 1   | 8 Aug 25 | Internet & HTML basics |
 | 2   | 9 Aug 25 | HTML Basics |
 | 3   | 12 Aug 25 | CSS Basics & HTML|
 | 4   | 13 Aug 25 | CSS |
-| 5   | 15 Aug 25 | CSS | Computer Networking Basics |
+| 5   | 15 Aug 25 | CSS & Node Js basics | Computer Networking Basics |
 
 ---
 
