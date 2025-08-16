@@ -23,6 +23,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 | 3   | 12 Aug 25 | CSS Basics & HTML|
 | 4   | 13 Aug 25 | CSS |
 | 5   | 15 Aug 25 | CSS & Node Js basics | Computer Networking Basics |
+| 6   | 16 Aug 25 | JS Basics Revision   |
 
 ---
 
@@ -46,7 +47,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 
 ## 🛠️ Tech Stack (So Far)
 - **Frontend (In Progress):** HTML, CSS, JavaScript  
-- **Backend (Learning Soon):** Node.js, Express  
+- **Backend (In Progress):** Node.js, Express  
 - **Database (Learning Soon):** MongoDB  
 - **Security Tools (In Progress):** Nmap, Wireshark, Burp Suite  
 
