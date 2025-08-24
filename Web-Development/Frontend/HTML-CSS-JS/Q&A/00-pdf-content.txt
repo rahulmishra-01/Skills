@@ -1,0 +1,18 @@
+---------------PDF-1----------------
+1.What is HTML?
+2.What is the meaning of HyperText Markup Language?
+3.What is boilerplate?
+4.What is Tag?
+5.What is the difference between opening and closing HTML tags?
+6.Why are some HTML tags self-closing and how are they used?
+7.How does an HTML tag define the structure of a webpage?
+8.How does the <html> tag influence web browser interpretation?
+9.HTML Tags-
+10.What are the essential attributes of the <img> tag and their functions?
+11.Fevicon icon-
+12.What are Attributes?
+13.Index.html Filename-
+14.<a> Tag -
+15.Lists in HTML?
+16.HTML Entities-
+---------------PDF-2----------------

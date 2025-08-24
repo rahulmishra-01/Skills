@@ -1,0 +1,48 @@
+---------------PDF-1----------------
+1.What is JavaScript?
+2.History of JavaScript-
+3.Ways to Write JavaScritp-
+4.JavaScript Values & Variables-
+5.JavaScript Data Types-
+6.Truthy & Falsy-
+7.ParseInt() & ParseFloat()-
+8.Expressions & Operators-
+9.Ternary Operator in JavaScript-
+10.Control Statements & Loops-
+11.Functions in JavaScript-
+12.var,let & const-
+13.Template Strings-
+14.Default Arguments-
+15.Arrow Functions-
+16.Destructuring-
+17.Array & Array Properties-
+18.Objects & Object Properties-
+19.Rest & Spread Operators-
+20.Strings in javaScript-
+21.Math in JavaScript-
+22.Window Object-
+23.DOM in JavaScript-
+24.BOM in JavaScript-
+25.Event Listener-
+---------------PDF-2----------------
+1.Events in JavaScript-
+2.localStorage in JavaScript-
+3.Set & set method in JS-
+4.Date and Time in JavaScript-
+5.Timing-Based Events in JavaScript-
+6.Pass by Value vs Pass by Reference-
+7.Shallo Copy vs Deep Copy of Objects in JavaScript-
+8.this in JavaScript-
+9.How JavaScript Works-
+10.JavaScript Event Loop-
+11.Hoisting in JavaScript-
+12.Lexical Scope & Scope Chaining-
+13.Closures in JavaScript-
+14.ECMAScript 2015 - 2025-
+15.Advanced JavaScript-
+---------------PDF-3----------------
+1.Event Propagatin-
+2.Higher Order Functions-
+3.Callback Hell-
+4.Promises in JS-
+5.Async/Await-

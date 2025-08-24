@@ -1,0 +1,50 @@
+---------------PDF-1----------------
+1.How Website Works?
+2.Building block of website-
+3.What is CSS?
+4.CSS History-
+5.CSS Rule Structure-
+6.How to use css in html?
+7.Types of selector-
+8.Advanced Selectors-
+9.What is declaration?
+10.CSS Comments-
+11.Colors in css-
+12.Backgrounds-
+13.Units-
+---------------PDF-2----------------
+1.Fonts-
+2.Custom Fonts-
+3.Text Properties-
+4.Box Model-
+5.CSS Gradients-
+6.Repeating Linear Gradient-
+7.Radial Gradients-
+8.Box Shadow-
+9.Drop Shadow-
+10.Filters-
+11.List properties in css-
+12.Anchor state css-
+13.Combinators CSS-
+14.Display-
+15.Positions-
+16.z-index-
+17.Overflow-
+18.Pseudo Elements-
+---------------PDF-3----------------
+1.Pseudo class-
+2.Column Layout-
+3.Flexbox-
+4.Grid-
+---------------PDF-4----------------
+1.CSS Transitions-
+2.CSS Transform-
+3.CSS Animation-
+4.CSS Variables-
+5.CSS Specificity-
+6.:is,:has,:not,:where-
+7.Accent-color in CSS-
+8.CSS Floats-
+9.CSS clip-path-
+---------------PDF-5----------------
+1.Vendor Prefixes in CSS-
