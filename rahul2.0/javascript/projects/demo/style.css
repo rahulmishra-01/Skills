@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container{
+    border: 1px solid black;
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.box{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+.controls{
+    border:1px solid black;
+    padding: 10px;
+}
+.controlBox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.controlBox .controlValues{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.controlValues input{
+    max-width: 50px;
+}
