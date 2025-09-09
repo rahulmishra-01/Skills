@@ -230,4 +230,225 @@
 // const fun1 = function hoistingFun(){
 //     console.log("Hoisting is not working")
 // }
+
+
+//=======================================================================================
+//here i learn about objects like object literal,properties,methods,This,call(),appply(),bind(),Destructuring, spread and rest operator,Object.assign(), Object.keys(), Object.values(), Object.entries(),JSON.Stringify(),JSON.parse()
+
+// const obj1 = {} //<---- object literal
+// const obj2 = new Object() //<---- object constructor
+// const obj3 = {name:"Mark", address:"New York"} //<---- object literal with properties
+
+// const obj = {name:"mark", address:"New York"}
+// console.log(obj)
+
+// const obj = {
+//     name:"mark",
+//     address:"New York",
+//     details: function () {  //<---- This is a method
+//         console.log(`user ${this.name} is from ${this.address}`)
+//     }
+// }
+
+// const obj2 = {
+//     name:"Mohan",
+//     address:"Mumbai",
+// }
+
+// obj2.details = obj.details;
+
+// obj2.details();
+
+
+// function testThis(){
+//     console.log(this)
+// }
+
+// testThis()
+
+
+// const login = {
+//     name:"Rahul",
+//     loginLater(){
+//         setTimeout(function(){
+//             console.log(this.name)
+//         },1000)
+
+//         setTimeout(() => {
+//             console.log(this.name)
+//         },2000)
+//     }
+// }
+
+
+// login.loginLater()
+
+
+// const user = {
+//     name:"Mark"
+// }
+
+// const user2 = {
+//     name:"Rahul"
+// }
+
+
+// function demo(){
+//     console.log(this.name)
+// }
+
+// demo.call(user,user2);
+// demo.apply([user,user2]);
+
+// const obj = {
+//     name:"Mark",
+//     address:"New York",
+//     details: function () {  //<---- This is a method
+//         console.log(`user ${this.name} is from ${this.address}`)
+//     }
+// }
+
+// const {name:userName,address:userAddress,details:userDetails} = obj
+
+// console.log(userName)
+// console.log(userAddress)
+// userDetails.call(obj)
+
+// const student = {
+//     name:"Karan",
+//     std:"10th",
+//     roll:"17",
+//     address:{
+//         city:"Delhi",
+//         state:"Delhi",
+//         pincode:110001
+//     }
+// }
+
+// const {name,std,roll,address:{city,state,pincode}} = student;
+
+// console.log(`student name is ${name} and he is studying in ${std} and his roll number is ${roll} and he is from ${city} and state is ${state} and pincode is ${pincode}`)
+
+
+// const {roll,...details} = student
+// const {...studentDetails} = student
+
+// console.log(roll)
+// console.log(details)
+// console.log(studentDetails)
+
+
+// const obj = {name:"Jhon", age:28}
+// const copyObj = {...obj}
+// console.log(obj)
+// console.log(copyObj)
+
+// const obj1 = {name:"Jhon", age:28}
+// const obj2 = {name:"Karan", address:"Delhi"}
+
+// const obj3 = {...obj1,...obj2}
+// console.log(obj3)
+
+
+// const obj = {name:"Jhon", age:23}
+// const copyObj = {...obj}
+// // const copyObj2 = obj
+// const copyObj3 = Object.assign({},obj)
+
+// copyObj.name = "Rahul"
+// // copyObj2.name = "Karan"
+// copyObj3.name = "Karan"
+
+// console.log(obj)
+// console.log(copyObj)
+// console.log(copyObj3)
+
+// const obj = {
+//     name:"Mark",
+//     age:32,
+//     address:{
+//         city:"Delhi",
+//         state:"Delhi",
+//         pincode:110001
+//     }
+// }
+
+// const keys = Object.keys(obj)
+// console.log(keys) 
+
+// const values = Object.values(obj)
+// console.log(values)
+
+// const entries = Object.entries(obj)
+// console.log(entries)
+
+
+
+//=======================================================================================
+// here i learn about arrays like array literal, array constructor,create and access elements, forEach, map, filter, reduce, find, findIndex, includes, spread operator, destructuring arrays
+
+// const arr = [] //<--- This is an array literal
+// const arr2 = new Array() //<--- This is an array constructor
+// const arr3 = [1,2,3] //<--- This is an array literal
+
+
+// const arr = [3,4,8,1,3,5,6,7]
+// const arr2 = ["one","two","three"]
+
+// const addOnLast = arr.push(8,3)
+// const removeOnLast = arr.pop()
+// const removeFromFirst = arr.shift()
+// const addOnFirst = arr.unshift(1,5)
+// const sliceArr = arr.slice(0,5)
+// const spliceArr = arr.splice(0,4)
+// console.log(arr)
+// console.log(sliceArr)
+
+
+// const arr3 = arr.concat(arr2)
+// const arr4 = [...arr,...arr2]
+// console.log(arr3)
+// console.log(arr4)
+
+// console.log(arr3 === arr4)
+
+// const joinArr = arr3.join(",")
+// const sortArr = arr3.sort()
+// console.log(joinArr)
+// console.log(sortArr)
+
+// const reverseArr = arr3.reverse()
+// console.log(reverseArr)
+
+// const arr = [1,2,3,4,5,6,7,8,9,10]
+
+// const arr2 = arr.forEach((num) => {
+//     console.log(num * 2)
+// })
+
+// const arrMap = arr.map((num) => {
+//     return num * 2
+// })
+
+// const arrFilter = arr.filter((num) => {
+//     return num % 2 === 0
+// })
+
+// const arrReduce = arr.reduce((acc,num) => {
+//     return acc + num
+// })
+
+// console.log(arrReduce)
+
+
+
+// const arr = [{id:1,name:"Arush",age:11},{id:2,name:"Karan",age:12},{id:3,name:"Rahul",age:13}]
+
+// const arrFind = arr.find((user) => user.id === 2)
+// const arrFindIndex = arr.findIndex((user) => user.id === 2)
+// const arrIncludes = arr.includes({id:2,name:"Karan",age:12})
+
+// console.log(arrFind)
+// console.log(arrFindIndex)
+// console.log(arrIncludes)
 //=======================================================================================
