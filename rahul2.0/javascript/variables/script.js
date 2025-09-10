@@ -452,3 +452,105 @@
 // console.log(arrFindIndex)
 // console.log(arrIncludes)
 //=======================================================================================
+// here i learn about strings common methods like slice, substring, split, trim, replace, replaceAll, includes, startsWith, endsWith, toUpperCase, toLowerCase
+
+// const str = "Hello World"
+
+// const strSlice = str.slice(0,3)
+// const strSubstrings = str.substring(0,3)
+// const strSplit = str.split(" ")
+// const strTrim = str.trim()
+// const strReplace = str.replace("World","Rahul")
+// const strReplaceAll = str.replaceAll("l","r")
+// const strIncludes = str.includes("World")
+// const strStartsWith = str.startsWith("H")
+// const strEndsWith = str.endsWith("d")
+// const strToUpperCase = str.toUpperCase()
+// const strLowerCase = str.toLowerCase()
+
+// console.log(strLowerCase)
+
+
+//=======================================================================================
+//here i learn about numbers common methods like parseInt, parseFloat, isNaN, toFixed and Math objects like floor, ceil, round, random, max, min, pow
+
+// const num = "123"
+// const num2 = "2.42"
+// const num3 = 124.5233244
+// const numParseInt = parseInt(num)
+// const numParseFloat = parseFloat(num2)
+// const numIsNumber = isNaN(num)
+// const numToFixed = num3.toFixed(2)
+
+
+// console.log(numToFixed)
+
+// const num = 23.50
+// const numArr = [32,4,52,23,65,43,55]
+
+// const numFloor = Math.floor(num)
+// const numCeil = Math.ceil(num)
+// const numRound = Math.round(num)
+// const numRandom = Math.random()
+// const numMax = Math.max(...numArr)
+// const numMin = Math.min(...numArr)
+// const numPower = Math.pow(3,3)
+// const numSqrt = Math.sqrt(9)
+
+// console.log(`${numFloor} and ${numCeil} and ${numRound}`)
+// console.log(Math.floor(numRandom * 10))
+// console.log(numSqrt)
+
+//=======================================================================================
+// here i learn about dates 
+
+// new Date(year, monthIndex, day, hours, minutes, seconds, milliseconds)
+// const date = new Date();
+// const date2 = new Date(2000,9,6,8,12,0,0);
+
+
+// console.log(date)
+// console.log(date2.toDateString())
+
+// date.setFullYear(2000);
+// date.setMonth(9);
+// date.setDate(6);
+
+// console.log(date.getFullYear())
+// console.log(date.getMonth())
+// console.log(date.getDate())
+// console.log(date.getDay())
+// console.log(date.getDay())
+
+
+//=======================================================================================
+// here i learn about lexical scoping, closure, scope chaining
+
+// function fun1(name){
+//     function innerFun(){
+//         console.log(`Hello ${name}`)
+//     }
+//     return innerFun;
+// }
+
+// const fun2 = fun1()
+// fun2()
+
+
+// function fun1(){
+//     let count = 0;
+//     return function(){
+//         count++;
+//         console.log(count)
+//     }
+// }
+
+// const fun2 = fun1()
+// fun2()
+// fun2()
+// fun2()
+
+
+//=======================================================================================
+
+
