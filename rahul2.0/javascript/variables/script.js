@@ -552,5 +552,58 @@
 
 
 //=======================================================================================
+// here i learn about promises, async-await,fetch
+
+// setTimeout(() => {console.log("This is Set Timeout")},2000)
+
+// setInterval(() => {console.log("This is Set Interval")},1000)
+
+
+// console.log("Starting point")
+
+// let a = 5;
+// let b = 6
+
+// const promise = new Promise((resolve,reject) => {
+//     const value = true;
+//     if(value){
+//         setTimeout(() => {
+//             resolve("Success")
+//         },0)
+//     }else{
+//         setTimeout(() => {
+//             reject("Failed")
+//         },0)
+//     }
+// })
+
+// let c = a + b;
+// let d = a - b;
+
+// console.log("Ending point")
+
+// promise.then((res) => {
+//     console.log("Promise Resolved")
+// }).catch((err) => {
+//     console.log(`Promise Rejected ${err}`)
+// }).finally(() => {
+//     console.log("Promise Finally")
+// })
+
+// let e = 8;
+// let k = 9;
+
+// console.log(c)
+
+
+// const data =  fetch("https://dummyjson.com/products/1")
+// .then((res) => res.json())
+// .then((data) => console.log(data))
+
+// console.log(data)
+
+
+//=======================================================================================
+
 
 
