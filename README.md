@@ -1,5 +1,5 @@
 # 🚀 My Daily Learning Journey  
-📅 Started on: 8 August 2025  
+📅 Started on: 20 September 2025  
 
 I’m learning **Web Development** 🌐 step by step — covering **Frontend**, **Backend**, and **Databases**.  
 This repository is where I log my **daily progress**, projects, and notes.  
