@@ -1,0 +1,40 @@
+console.log(+"52")
+console.log(+"2.42")
+console.log(+"hello")
+console.log(+undefined)
+console.log(+true)
+console.log(+null)
+console.log(+41)
+
+console.log(typeof +"52")
+console.log(typeof +"2.42")
+console.log(typeof +"hello")
+console.log(typeof +undefined)
+console.log(typeof +true)
+console.log(typeof +null)
+console.log(typeof +41)
+
+console.log(-"52")
+console.log(-"2.42")
+console.log(-"hello")
+console.log(-undefined)
+console.log(-true)
+console.log(-null)
+console.log(-41)
+
+console.log(typeof -"52")
+console.log(typeof -"2.42")
+console.log(typeof -"hello")
+console.log(typeof -undefined)
+console.log(typeof -true)
+console.log(typeof -null)
+console.log(typeof -41)
+
+console.log(parseInt("52a"))
+
+console.log(100 + 42)
+console.log(100 + "42")
+console.log(100 - "Hello")
+
+
+console.log(typeof 8298328392n)

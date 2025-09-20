@@ -19,7 +19,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 
 | Day | Date      | Frontend 🎨 | Backend ⚙️ | Database 🗄️ |  
 |-----|-----------|-------------|------------|-------------|  
-| 1   | 20 sep 25  | History of JavaScript | - | - |  
+| 1   | 20 sep 25  | History of JS, REPL, Data Types | - | - |  
 
 ---
 
