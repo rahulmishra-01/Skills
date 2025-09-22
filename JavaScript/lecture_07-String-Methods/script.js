@@ -1,0 +1,21 @@
+let value = "Hello World";
+let string1 = "Rohan";
+let string2 = "Karan"
+// console.log(value.substr(0,8))
+// console.log(value.indexOf("o"))
+// console.log(value.lastIndexOf("o"))
+// console.log(value.includes("World"))
+// console.log(value.startsWith("H"))
+// console.log(value.endsWith("d"))
+// console.log(value.toUpperCase())
+// console.log(value.toLowerCase())
+// console.log(value.trim())
+// console.log(value.trimStart())
+// console.log(value.trimEnd())
+// console.log(value.charAt(6))
+// console.log(value.concat(string1, string2,))
+// console.log(value.split(","))
+// console.log(value.replace("Hello", "Hi"))
+// console.log(value.replaceAll("Hello", "Hi"))
+// console.log(value.repeat(5))
+// console.log(value.length)

@@ -29,6 +29,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 |      |     | TDZ |            | 
 |      |     | Code execution |            | 
 |      |     | Dialogue boxes |            | 
+|      |     | String Methods |            | 
 
 ---
 
