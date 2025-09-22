@@ -15,11 +15,19 @@ This repository is where I log my **daily progress**, projects, and notes.
 
 ---
 
-## 🏆 Daily Progress Log  
+## 🏆 Language Progress Log  
 
-| Day | Date      | Frontend 🎨 | Backend ⚙️ | Database 🗄️ |  
-|-----|-----------|-------------|------------|-------------|  
-| 1   | 20 sep 25  | History of JS, REPL, Data Types | - | - |  
+| HTML | CSS | JavaScript | React JS | 
+|------|-----|------------|----------| 
+|      |     | History Of JS |       |
+|      |     | REPL       |          |
+|      |     | Data Types |          |
+|      |     | Keybaord Character|   |
+|      |     | Variables |           |
+|      |     | Scopes    |           |
+|      |     | Hoisting |            | 
+|      |     | TDZ |            | 
+|      |     | Code execution |            | 
 
 ---
 
@@ -51,7 +59,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 - CSS  
 - JavaScript  
 
-### ⚙️ Backend (In Progress)  
+### ⚙️ Backend (Learning Soon)  
 - Node.js  
 - Express  
 
