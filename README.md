@@ -28,6 +28,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 |      |     | Hoisting |            | 
 |      |     | TDZ |            | 
 |      |     | Code execution |            | 
+|      |     | Dialogue boxes |            | 
 
 ---
 
