@@ -30,6 +30,7 @@ This repository is where I log my **daily progress**, projects, and notes.
 |      |     | Code execution |            | 
 |      |     | Dialogue boxes |            | 
 |      |     | String Methods |            | 
+|      |     | Operators and Math methods |            | 
 
 ---
 
