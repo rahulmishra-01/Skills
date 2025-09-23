@@ -31,6 +31,20 @@ This repository is where I log my **daily progress**, projects, and notes.
 |      |     | Dialogue boxes |            | 
 |      |     | String Methods |            | 
 |      |     | Operators and Math methods |            | 
+|      |     | Truthy and Falsy |            | 
+|      |     | Conditional Methods |            | 
+|      |     | See variable address |            | 
+|      |     | Object |            | 
+|      |     | Array |            | 
+|      |     | Deep copy and Shallow Copy |            | 
+|      |     | Loops |            | 
+|      |     | Function |            | 
+|      |     | Execution Context |            | 
+|      |     | Call Stack |            | 
+|      |     | Hoisting |            | 
+|      |     | Scopes |            | 
+|      |     | Higer Order Functions |            | 
+|      |     | Settimeout and Setinterval|            | 
 
 ---
 
